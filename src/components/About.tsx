@@ -1,4 +1,3 @@
-import React from "react";
 
 const About = () => (
   <section id="about" className="py-16 px-4 bg-gray-900 text-gray-100">

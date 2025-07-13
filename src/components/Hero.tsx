@@ -1,4 +1,3 @@
-import React from "react";
 
 const Hero = () => (
   <section id="hero" className="flex flex-col items-center justify-center text-center py-20 px-4 bg-gradient-to-b from-gray-900 to-gray-800">
