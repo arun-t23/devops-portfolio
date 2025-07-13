@@ -1,0 +1,9 @@
+{
+  "Cloud": ["AWS", "Azure", "GCP"],
+  "Containers": ["Docker", "Kubernetes", "Helm"],
+  "CI/CD": ["GitHub Actions", "Jenkins", "GitLab CI"],
+  "IaC": ["Terraform", "Ansible", "CloudFormation"],
+  "Monitoring": ["Prometheus", "Datadog", "Grafana"],
+  "Scripting": ["Python", "Bash", "YAML"],
+  "Security": ["IAM", "Vault", "DevSecOps tools"]
+}
