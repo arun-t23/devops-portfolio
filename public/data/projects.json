@@ -6,7 +6,7 @@
     "link": "https://github.com/arun-t23/multi-modal-researcher"
   },
   {
-    "title": "Multi-Cloud IaC with Terraform",
+    "title": "Multi-Cloud IaC with  Terraform",
     "description": "Provisioned and managed infrastructure across AWS, Azure, and GCP using Terraform modules, ensuring cloud-agnostic, scalable, and secure deployments.",
     "technologies": ["Terraform", "AWS", "Azure", "GCP"],
     "link": "https://github.com/arun-t23/"
