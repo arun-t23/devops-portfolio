@@ -1,26 +1,26 @@
 [
   {
-    "title": "Kubernetes GitOps with ArgoCD",
-    "description": "Automated deployment pipelines using GitOps principles with ArgoCD, enabling seamless and auditable application delivery to Kubernetes clusters.",
-    "technologies": ["Kubernetes", "ArgoCD", "GitOps", "Helm"],
-    "link": "https://github.com/arunkumar1866/k8s-gitops-argocd"
+    "title": "multi-modal-researcher",
+    "description": "This project is a research and podcast generation workflow using LangGraph and Google's Gemini 2.5. It takes a topic (and optionally a YouTube video), performs web research, analyzes the video, and generates a citation-backed report along with a short podcast summary.",
+    "technologies": ["LangGraph", "Gemini 2.5", "Python", "LangGraph"],
+    "link": "https://github.com/arun-t23/multi-modal-researcher"
   },
   {
     "title": "Multi-Cloud IaC with Terraform",
     "description": "Provisioned and managed infrastructure across AWS, Azure, and GCP using Terraform modules, ensuring cloud-agnostic, scalable, and secure deployments.",
     "technologies": ["Terraform", "AWS", "Azure", "GCP"],
-    "link": "https://github.com/arunkumar1866/multicloud-terraform"
+    "link": "https://github.com/arun-t23/"
   },
   {
     "title": "CI/CD with Security Scanning",
     "description": "Implemented CI/CD pipelines integrating SAST, DAST, and container image scanning for secure software delivery using GitHub Actions and Jenkins.",
     "technologies": ["GitHub Actions", "Jenkins", "Snyk", "Trivy", "Docker"],
-    "link": "https://github.com/arunkumar1866/cicd-security"
+    "link": "https://github.com/arun-t23/"
   },
   {
     "title": "Incident Response Automation",
     "description": "Developed automated incident response workflows using Python and AWS Lambda, reducing mean time to resolution and improving reliability.",
     "technologies": ["AWS Lambda", "Python", "CloudWatch", "SNS"],
-    "link": "https://github.com/arunkumar1866/incident-response-automation"
+    "link": "https://github.com/arun-t23/"
   }
 ]
